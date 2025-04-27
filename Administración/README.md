@@ -60,9 +60,10 @@ Proyección:
 
 | Mes | Universidades activas | Ingresos (USD) | Costos fijos (USD) | Ganancia (USD) |
 |:---|:---|:---|:---|:---|
-| 6 | 1 | 3,000 | 11,400 | -8,400 |
-| 12 | 2 | 6,000 | 11,400 | -5,400 |
-| 18 | 3 | 9,000 | 11,400 | -2,400 |
-| 24 | 4 | 12,000 | 11,400 | 600 |
+| 2 | 0 | 3,000 | 11,400 | -11,400 |
+| 4 | 1 | 6,000 | 11,400 | -8,400 |
+| 6 | 2 | 9,000 | 11,400 | -4,400 |
+| 8 | 3 | 12,000 | 11,400 | -2,400 |
+| 9 | 3 | 12,000 | 11,400 | 600 |
 
-> El **punto de equilibrio** se alcanzaría en el **mes 24** con 4 universidades activas.
+> El **punto de equilibrio** se alcanzaría en el **mes 9**.
