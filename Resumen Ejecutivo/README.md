@@ -1,27 +1,27 @@
-# 📑 Resumen Ejecutivo – OmegaLab 2025
+# Resumen Ejecutivo - **MindBreeze**
 
-## ¡Bienvenidos a la carpeta de Resumen Ejecutivo!
+## Problema
+La deserción estudiantil en universidades está en aumento, en gran parte debido al estrés académico. Este problema no solo afecta el bienestar de los estudiantes, sino que también impacta negativamente los ingresos y el prestigio de las instituciones educativas.
 
-En esta sección se debe subir **el resumen general del proyecto**, que debe sintetizar los aspectos más importantes y relevantes del trabajo realizado durante el reto OmegaLab 2025.
+## Objetivo
+Desarrollar una plataforma inteligente que detecte tempranamente signos de estrés académico en estudiantes universitarios, ofrezca intervenciones personalizadas y fortalezca su bienestar, mejorando así la retención estudiantil.
 
----
-- El **documento debe contar con 5 hojas**:
-  - **4 hojas** deben ser para cada una de las disciplinas: Administración, Desarrollo, Mercadeo y Diseño.
-  - **Diseño** es el único rol que debe contar con **2 hojas**:
-    - La primera hoja debe ser igual a demás roles.
-    - La segunda hoja debe ser exclusiva para **imágenes visuales**, como prototipos, maquetas, wireframes, logotipos, y otros recursos visuales.
+## Público Objetivo
+- **Primario:** Estudiantes universitarios de pregrado.
+- **Secundario:** Universidades y departamentos de bienestar estudiantil interesados en mejorar la retención y el bienestar de sus alumnos.
 
-## 📋 ¿Qué tipo de contenidos pueden ir aquí?
-  - Un resumen claro y conciso del proyecto: objetivos, alcance y propósito.
-  - Descripción del impacto y resultados esperados.
-  - Principales logros y conclusiones del proyecto.
-  - Resumen de la metodología utilizada y los avances alcanzados.
-  - Cualquier otro contenido relevante que el equipo considere importante mostrar a los jueces.
+## Solución Propuesta
+**MindBreeze** es una plataforma basada en inteligencia artificial que:
+- Detecta signos de estrés a través de un chatbot conversacional y test de aprendizaje inicial.
+- Ofrece intervenciones personalizadas con mensajes motivacionales y acompañamiento emocional.
+- Implementa un sistema de puntos que premia a los estudiantes con descuentos y beneficios.
+- Envía recordatorios de hábitos saludables y notificaciones de logros académicos.
 
-> ℹ️ **Nota:** Este archivo debe contener lo que **ustedes consideran relevante** para presentar y destacar frente a los jueces, ya que será lo que se utilizará para la evaluación final del proyecto.
+Se despliega en una arquitectura moderna (**React.js + FastAPI**) y combina bases de datos **Firestore** y **PostgreSQL**, asegurando escalabilidad y eficiencia.
 
----
-
-> Tienes solo 5 minutos para enamorar, emocionar y convencer. Elige sabiamente qué mostrar. Deja que tu pasión y tu estrategia hablen más fuerte que las palabras.
-
-¡Éxito en la presentación de su proyecto! 🚀
+## Valor Diferencial
+- **Intervenciones predictivas:** Detectamos el estrés antes de que afecte el rendimiento académico.
+- **Gamificación:** Motivamos a los estudiantes con un sistema de recompensas vinculado a su progreso.
+- **Enfoque humano:** Personajes adaptados a estilos de aprendizaje acompañan emocionalmente a los usuarios.
+- **Impacto directo:** Mejoramos tasas de retención y fortalecemos el prestigio de las universidades.
+- **Acompañamiento total:** Acompañamos al estudiante no solo en la fase de prevención del estrés, sino también cuando ya está estresado e incluso en momentos críticos donde piensa en desertar.
